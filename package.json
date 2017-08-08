@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "description": "Common functions and classes for simplifying the Atom and Node API usage",
   "keywords": [
-    "commons", "atom"
+    "commons",
+    "atom"
   ],
   "repository": "https://github.com/RechInformatica/rech-atom-commons",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-select-list": "^0.1.0"
   }
 }
